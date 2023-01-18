@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hello👋. My name is Sarkhan. I'm a back-end PHP developer
+   Hello👋. My name is Sarkhan. I'm a back-end PHP developer
 - 🌱 Language - PHP, Java, Python, JS
 - 🎸 Backend - Laravel
 - 🔭 DataBase - MySQL, MSSQL, PostgreSQL, MariaDB, Redis
