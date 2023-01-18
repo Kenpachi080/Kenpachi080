@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hello👋. My name is Sarkhan. I'm a back-end PHP developer
+- 🌱 Language - PHP, Java, Python, JS
+- 🎸 Backend - Laravel
+- 🔭 DataBase - MySQL, MSSQL, PostgreSQL, MariaDB, Redis
+- 👀 I like interesting tasks that require more than "SELECT * FROM `github`"
+- 📫 Do you want to chat? (https://t.me/Sarkhan080)
